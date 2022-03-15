@@ -1,4 +1,4 @@
-This repository contains my answer to question 3 of the 3rd Year Biology Undergraduate Computer Assignment. The analysis included calculates the average rainfall by month in Melbourne and Oxford and then produces a graph comparing rainfall in each month.
+This repository contains my answer to question 3 of the 3rd Year Biology Undergraduate GitHub Computer Assignment. The analysis included calculates the average rainfall by month in Melbourne and Oxford and then produces a graph comparing rainfall in each month.
 
 To run the first section of the analysis use the following command:
 
