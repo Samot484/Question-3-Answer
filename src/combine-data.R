@@ -52,6 +52,6 @@ write.table(x = plot_df,
             sep = ",",
             row.names = FALSE)
 
-sink(file = "Question-3-Answer\\out-combine-data\\package-versions.txt")
+sink(file = "Question-3-Answer\\out-combine-data\\package-versions-combine-data.txt")
 sessionInfo()
 sink()
