@@ -27,6 +27,6 @@ ggsave(filename = "Question-3-Answer\\out-make-plot\\result.png",
        height = 10.5, width = 14.8,
        units = "cm")
 
-sink(file = "git-usage\\out-combine-data\\package-versions.txt")
+sink(file = "Question-3-Answer\\out-make-plot\\package-versions-make-plot.txt")
 sessionInfo()
 sink()
